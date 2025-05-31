@@ -1,5 +1,4 @@
 [
-
     {
         "id": "mocha",
         "name": "抹茶",
@@ -11,5 +10,5 @@
         "version": "0.0.2",
         "update_time": "2025-03-29T16:37:00Z",
         "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPTV.json"
-    },
+    }
 ]
