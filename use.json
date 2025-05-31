@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "name": "抹茶",
+      "type": 1,
+      "api": "https://mochavvip.eitc.top/api.php/provide/vod/"
+    }
+    ]
+}
