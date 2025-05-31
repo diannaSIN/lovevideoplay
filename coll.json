@@ -1,5 +1,7 @@
+[
+
     {
-        "id": "main",
+        "id": "mocha",
         "name": "抹茶",
         "desc": "抹茶小破站",
         "type": "vod",
@@ -10,3 +12,4 @@
         "update_time": "2025-03-29T16:37:00Z",
         "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPTV.json"
     },
+]
